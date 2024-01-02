@@ -11,6 +11,7 @@ Change directory into build folder and run program file:
 ```
 ./program
 ```
+Sidenotes:
 
 The number of hidden neurons can be modified and will significantly increase training time but also improve accuracy.
 
