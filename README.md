@@ -1,7 +1,10 @@
-# Artificial-Neural-Network-in-C
+<p align="center">
+  # Artificial-Neural-Network-in-C
+</p>
+
 Simple neural network with two hidden layers based on 3b1b's course on Neural networks and Michael Nielsen's book on Networks and Deep Learning. Trained on MNIST database of handwritten digits with a hovering accuracy of 84% - 88% using sigmoid and softmax as activations and gradient descent with the goal of reducing cross entropy loss.
 
-<img width="713" alt="Screenshot 2024-01-01 210555" src="https://github.com/MarcTy/Artificial-Neural-Network-in-C/assets/88467549/39a1f87c-e9e6-422b-9977-5e93346975b7">
+<img width="713" alt="Screenshot 2024-01-01 210555" src="https://github.com/MarcTy/Artificial-Neural-Network-in-C/assets/88467549/2fa9f867-5967-4503-84ae-4ce76bd1ba77">
 
 Simple to compile, ensure that you compile on a linux shell with gcc and make installed. Run this command while in the folder:
 ```
@@ -11,7 +14,9 @@ Change directory into build folder and run program file:
 ```
 ./program
 ```
-Sidenotes:
+<p align="center">
+  # Sidenotes
+</p>
 
 The number of hidden neurons can be modified and will significantly increase training time but also improve accuracy.
 
